@@ -1,0 +1,14 @@
+# Build artifacts
+/build/
+/docs/html/
+/docs/latex/
+/docs/xml/
+/docs/man/
+*.air
+*.metallib
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.user
