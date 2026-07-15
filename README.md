@@ -251,3 +251,9 @@ open docs/html/index.html
 
 Documents the `metalflow` namespace, classes, call graphs, and architecture
 pages (Graphviz flowcharts).
+
+---
+
+## License
+
+MetalFlow is released under the [MIT License](LICENSE).
